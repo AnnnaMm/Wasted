@@ -17,7 +17,7 @@
 > * Used models:
 >   - MobileNetV2
 ## Demo
-
+<video src="demo_videos/video1.mp4" width="320" height="240" controls></video>
 ## Data
 * Garbage:\
 ![1]()
