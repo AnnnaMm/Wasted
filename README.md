@@ -2,7 +2,7 @@
 <h1> <b> Wasted </b> </h1>
 <h2> This repo contains information about mobile application "Wasted" made by students team.</h2>
 </div>
-> * Team members:
+
 
 > * Datasets sourses:
 >   - _Kaggle:_ [Garbage Classification](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification); 
@@ -17,7 +17,7 @@
 > * Used models:
 >   - MobileNetV2
 ## Demo
-<video src="https://github.com/AnnnaMm/Wasted/tree/main/demo_videos/video1.mp4" width="320" height="240" controls></video>
+
 ## Data
 * Garbage:\
 ![1]()
