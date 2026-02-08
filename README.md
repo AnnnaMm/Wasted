@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
 ## Training
 ### MobileNetV2
 
-* Epoch ≥ 30, optimizer= "adam"
+* Epoch _, optimizer= _
 
 * Training process:\
 ![1]()
@@ -47,10 +47,10 @@ https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
 
 
 > * Team members:
-> - 
-> -
-> -
-> -
+>  - 
+>  -
+>  -
+>  -
 
 ## Results
 T(s) and P(s) are training and prediction times in seconds.
