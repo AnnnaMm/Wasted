@@ -18,6 +18,10 @@
 >   - MobileNetV2
 ## Demo
 
+
+https://github.com/user-attachments/assets/f4f4f3bc-d41f-469c-9926-cd27c51afc67
+
+
 ## Data
 * Garbage:\
 ![1]()
