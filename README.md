@@ -26,26 +26,27 @@ https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
 
 ## Data
 * Garbage:\
-![1]()
+![1](https://github.com/AnnnaMm/Wasted/blob/main/pictures/garbage.png)
 
 ## Training
 ### MobileNetV2
 
-* Epoch _, optimizer= _
+* Epoch 4, optimizer = Adam
 
 * Training process:\
-![1]()
+![1](https://github.com/AnnnaMm/Wasted/blob/main/pictures/CR.png)
+
+
+* Confusion Matrix:\
+![2](https://github.com/AnnnaMm/Wasted/blob/main/pictures/CM.png)
+
 
 * ROC:\
-![2]()
+![2](https://github.com/AnnnaMm/Wasted/blob/main/pictures/ROC.png)
 
 
-- Accuracy: 
-- Precision: 
-- Recall: 
-- F1-score: 
-
-
+- Accuracy: 0.8885
+ 
 
 > * Team members:
 >   - Anna M.
@@ -55,8 +56,7 @@ https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
 
 
 ## Results
-T(s) and P(s) are training and prediction times in seconds.
-![2]()
+
 
 
 > [!IMPORTANT]
