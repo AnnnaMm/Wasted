@@ -46,11 +46,13 @@ https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
 - F1-score: 
 
 
+
 > * Team members:
->  - 
->  -
->  -
->  -
+>   - Anna M.
+>   - Karolina K.
+>   - Piotr Cz.
+>   - Grzegorz P.
+
 
 ## Results
 T(s) and P(s) are training and prediction times in seconds.
