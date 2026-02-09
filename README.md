@@ -1,7 +1,9 @@
 <div align="justify">
 <h1> <b> Wasted </b> </h1>
-<h2> This repo contains information about mobile application "Wasted" made by students team.</h2>
+<h2> This repo contains information about mobile application "Wasted" made by team o students.</h2>
 </div>
+
+![0]([https://github.com/AnnnaMm/Wasted/blob/main/pictures/garbage.png](https://github.com/AnnnaMm/Wasted/blob/main/pictures/home_image.png)
 
 
 > * Datasets sourses:
