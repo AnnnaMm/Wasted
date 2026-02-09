@@ -65,7 +65,7 @@ Accuracy: 0.8885
 
 
 ## Results
-Our team successfully created a working program with integrated machine learning (which works offline) which can be downloaded at the link: [Google Drive](https://drive.google.com/file/d/14q9U7578JUMN66cav28vZKfZgt8khLVO/view?usp=drive_link).\
+Our team successfully created a working program with integrated machine learning (which works offline) which can be downloaded at the link: [Google Drive](https://drive.google.com/file/d/14q9U7578JUMN66cav28vZKfZgt8khLVO/view?usp=drive_link).
 
 
 
