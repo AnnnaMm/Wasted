@@ -3,8 +3,7 @@
 <h2> This repo contains information about mobile application "Wasted" made by team o students.</h2>
 </div>
 
-![0]([https://github.com/AnnnaMm/Wasted/blob/main/pictures/garbage.png](https://github.com/AnnnaMm/Wasted/blob/main/pictures/home_image.png)
-
+![0](https://github.com/AnnnaMm/Wasted/blob/main/pictures/home_image.png)
 
 > * Datasets sourses:
 >   - _Kaggle:_ [Garbage Classification](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification); 
@@ -18,6 +17,11 @@
 >   - os | shutil | random | tensorflow | matplotlib.pyplot | numpy | sklearn
 > * Used models:
 >   - MobileNetV2
+
+
+## Idea
+The main idea of ​​the project was to create an application that would help determine which bin to throw garbage in. As well as spread awareness of the importance of proper garbage sorting and caring for the environment.The program allows to take a photo and, using a trained classifier, identify which trash can to throw the object in. In addition, the application provides information about trash cans, what you can/cannot throw in them. There is also a quiz available to help you test your knowledge.
+
 ## Demo
 
 
@@ -25,6 +29,10 @@ https://github.com/user-attachments/assets/f4f4f3bc-d41f-469c-9926-cd27c51afc67
 
 
 https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
+
+
+## UX/UI
+The logo and other graphic elements were created by the team using Photoshop and other tools. Animated elements are present. Light/dark theme change is available.
 
 ## Data
 * Garbage:\
@@ -46,8 +54,7 @@ https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
 * ROC:\
 ![2](https://github.com/AnnnaMm/Wasted/blob/main/pictures/ROC.png)
 
-
-- Accuracy: 0.8885
+Accuracy: 0.8885
  
 
 > * Team members:
@@ -58,6 +65,7 @@ https://github.com/user-attachments/assets/243fb9ce-bd2a-4916-b6ed-7fd1312c3649
 
 
 ## Results
+We managed to create a working program with integrated machine learning (which works offline) which can be downloaded at the link: [Google Drive](https://drive.google.com/file/d/14q9U7578JUMN66cav28vZKfZgt8khLVO/view?usp=drive_link).
 
 
 
